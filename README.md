@@ -9,3 +9,5 @@ ITMO University professional retraining course
 1.2. Data visualization. Data analysis and transformation
   - [Data visualization](1-2-visualization&analysis/1-2-1-visualization)
   - [Data analysis and transformation](1-2-visualization&analysis/1-2-2-analysis)
+
+### [Final project](https://github.com/ooggaboog/weather-classification-ml)
