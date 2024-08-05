@@ -10,4 +10,7 @@ ITMO University professional retraining course
   - [Data visualization](1-2-visualization&analysis/1-2-1-visualization)
   - [Data analysis and transformation](1-2-visualization&analysis/1-2-2-analysis)
 
+1.3 Time series
+  - [Time series](https://github.com/ooggaboog/itmo-bonustrack-ml/blob/057d8e92248544cb91dd21297aea7ea8c8a25450/1-3-time_series/bt1_3.ipynb)
+
 ### [Final project](https://github.com/ooggaboog/weather-classification-ml)
