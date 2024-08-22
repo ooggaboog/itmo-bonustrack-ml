@@ -1,0 +1,1 @@
+SELECT count(*) FROM STOPS WHERE Stop_Name LIKE '%ОСТРОВ%'
