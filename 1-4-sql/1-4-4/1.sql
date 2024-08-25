@@ -1,0 +1,1 @@
+SELECT GetNumber(5, 7) AS Number
