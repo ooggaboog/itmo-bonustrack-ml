@@ -23,4 +23,11 @@ ITMO University professional retraining course
   - [SQL Queries (DML)](1-4-sql/1-4-3)
   - [Database Objects](1-4-sql/1-4-4)
 
+1.5 NoSQL data stores
+  - NoSQL databases
+  - Graph data storage (Neo4j)
+  - Key-value stores (Redis)
+  - Documentary storage (MongoDB)
+  - Columnar data stores (Cassandra)
+
 ### [Final project](https://github.com/ooggaboog/weather-classification-ml)
