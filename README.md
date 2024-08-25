@@ -20,6 +20,7 @@ ITMO University professional retraining course
   - Using SQL (DDL) to create data structures
 
 1.4.2 SQL Queries (DML). Database Objects
-  - [SQL Queries (DML)](1-4-sql)
+  - [SQL Queries (DML)](1-4-sql/1-4-3)
+  - [Database Objects](1-4-sql/1-4-4)
 
 ### [Final project](https://github.com/ooggaboog/weather-classification-ml)
