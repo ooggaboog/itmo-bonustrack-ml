@@ -1,0 +1,1 @@
+SELECT Latitude, Longitude FROM Stops WHERE ID_Stop = 15546
