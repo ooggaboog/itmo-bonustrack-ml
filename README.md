@@ -30,4 +30,6 @@ ITMO University professional retraining course
   - Documentary storage (MongoDB)
   - Columnar data stores (Cassandra)
 
+[**Midterm assessment 1**](1-assessment)
+
 ### [Final project](https://github.com/ooggaboog/weather-classification-ml)
