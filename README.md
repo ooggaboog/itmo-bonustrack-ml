@@ -32,4 +32,10 @@ ITMO University professional retraining course
 
 [**Midterm assessment 1**](1-assessment)
 
+---
+
+3.1 Overview of directions and methods of machine learning, major trends in AI. Dimensionality reduction task
+  - Introduction to Machine Learning and Data Analysis
+  - [Principal Component Analysis (PCA)](3-1-dimensionality-reduction)
+
 ### [Final project](https://github.com/ooggaboog/weather-classification-ml)
