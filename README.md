@@ -38,4 +38,8 @@ ITMO University professional retraining course
   - Introduction to Machine Learning and Data Analysis
   - [Principal Component Analysis (PCA)](3-1-dimensionality-reduction)
 
+3.2 Regression task
+  - Simple linear regression
+  - [Multiple linear regression](3-2-regression)
+
 ### [Final project](https://github.com/ooggaboog/weather-classification-ml)
