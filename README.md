@@ -48,4 +48,6 @@ ITMO University professional retraining course
   - [Naive Bayes classifier](3-3-classification/naive-bayes/bt-3-3-2.xlsx)
   - [Logistic Regression](3-3-classification/logistic-regression/bt-3-3-3.ipynb)
 
+[**Midterm assessment 3**](3-assessment)
+
 ### [Final project](https://github.com/ooggaboog/weather-classification-ml)
