@@ -42,4 +42,10 @@ ITMO University professional retraining course
   - Simple linear regression
   - [Multiple linear regression](3-2-regression)
 
+3.3 Classification task: k-NN and naive Bayesian classifier, logistic regression
+  - [Method of k-nearest neighbors](3-3-classification/k-nn)
+  - Algorithms, their evaluation and data set separation
+  - [Naive Bayes classifier](3-3-classification/naive-bayes/bt-3-3-2.xlsx)
+  - [Logistic Regression](3-3-classification/logistic-regression/bt-3-3-3.ipynb)
+
 ### [Final project](https://github.com/ooggaboog/weather-classification-ml)
