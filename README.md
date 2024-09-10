@@ -54,6 +54,6 @@ ITMO University professional retraining course
   - SVM for linearly separable samples
   - [SVM for linearly inseparable samples](4-1-svm&decision-tree/4-1-1-svm/bt-4-1-1.ipynb)
   - Entropy
-  - [Decision Trees](4-1-svm&decision-tree/4-1-2-decision-tree/bt_4_1_2.ipynb)
+  - [Decision Trees](4-1-svm&decision-tree/4-1-2-decision-tree/bt-4-1-2.ipynb)
 
 ### [Final project](https://github.com/ooggaboog/weather-classification-ml)
