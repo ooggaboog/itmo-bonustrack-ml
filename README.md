@@ -65,4 +65,6 @@ ITMO University professional retraining course
   - [Model ensembles](4-3-ensemble&reinforcement-learning/4-3-1-ensemble/bt-4-3-1.ipynb)
   - [Reinforcement Learning Concept](4-3-ensemble&reinforcement-learning/4-3-2-reinforcement-learning)
 
+[**Midterm assessment 4**](4-assessment)
+
 ### [Final project](https://github.com/ooggaboog/weather-classification-ml)
