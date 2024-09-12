@@ -60,4 +60,9 @@ ITMO University professional retraining course
   - [K-means method](4-2-clustering)
   - Hierarchical clustering and DBSCAN
 
+4.3 Ensembles, reinforcement learning
+  - Resampling
+  - [Model ensembles](4-3-ensemble&reinforcement-learning/4-3-1-ensemble/bt-4-3-1.ipynb)
+  - [Reinforcement Learning Concept](4-3-ensemble&reinforcement-learning/4-3-2-reinforcement-learning)
+
 ### [Final project](https://github.com/ooggaboog/weather-classification-ml)
