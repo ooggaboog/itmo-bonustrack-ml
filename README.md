@@ -56,4 +56,8 @@ ITMO University professional retraining course
   - Entropy
   - [Decision Trees](4-1-svm&decision-tree/4-1-2-decision-tree/bt-4-1-2.ipynb)
 
+4.2 Clustering task: K-means, DBSCAN, hierarchical clustering
+  - [K-means method](4-2-clustering)
+  - Hierarchical clustering and DBSCAN
+
 ### [Final project](https://github.com/ooggaboog/weather-classification-ml)
