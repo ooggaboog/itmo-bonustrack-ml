@@ -32,7 +32,10 @@ ITMO University professional retraining course
 
 [**Midterm assessment 1**](1-assessment)
 
----
+2.1 Random Events, Probability, and Random Variables
+  - Introduction to Probability Theory
+  - Probability. Various definitions. Properties of probabilities
+  - [Random variables](2-1-random&probability/bt-2-1.ipynb)
 
 3.1 Overview of directions and methods of machine learning, major trends in AI. Dimensionality reduction task
   - Introduction to Machine Learning and Data Analysis
