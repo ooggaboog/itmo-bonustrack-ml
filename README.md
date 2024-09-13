@@ -13,7 +13,7 @@ ITMO University professional retraining course
   - [Data analysis and transformation](1-2-visualization&analysis/1-2-2-analysis/bt-1-2-2.ipynb)
 
 1.3 Time series
-  - [Time series](https://github.com/ooggaboog/itmo-bonustrack-ml/blob/057d8e92248544cb91dd21297aea7ea8c8a25450/1-3-time_series/bt1_3.ipynb)
+  - [Time series](1-3-time_series/bt-1-3.ipynb)
 
 1.4.1 Database management systems. Data modeling. Integrity constraints. Using SQL (DDL) to create data structures
   - Database management systems
