@@ -20,8 +20,8 @@ ITMO University professional retraining course
   - Using SQL (DDL) to create data structures
 
 1.4.2 SQL Queries (DML). Database Objects
-  - [SQL Queries (DML)](1-4-sql/1-4-3)
-  - [Database Objects](1-4-sql/1-4-4)
+  - [SQL Queries (DML)](1-4-sql/1-4-2-1)
+  - [Database Objects](1-4-sql/1-4-2-2)
 
 1.5 NoSQL data stores
   - NoSQL databases
