@@ -37,6 +37,11 @@ ITMO University professional retraining course
   - Probability. Various definitions. Properties of probabilities
   - [Random variables](2-1-random&probability/bt-2-1.ipynb)
 
+2.2 Probability distribution laws of random variables
+  - Population and sample. Basic laws of distribution of discrete random variables
+  - Function and density distribution. Basic laws of distribution of continuous random variables
+  - [Joint distribution of two random variables](2-2-random-distribution/bt-2-2.ipynb)
+
 3.1 Overview of directions and methods of machine learning, major trends in AI. Dimensionality reduction task
   - Introduction to Machine Learning and Data Analysis
   - [Principal Component Analysis (PCA)](3-1-dimensionality-reduction)
