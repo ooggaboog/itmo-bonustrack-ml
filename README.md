@@ -47,6 +47,10 @@ ITMO University professional retraining course
   - [Estimation of parameters of a probabilistic model](2-3-descriptive-stats&estimates)
   - Law of Large Numbers and Properties of Estimators
 
+2.4 Interval estimation
+  - Interval estimation. Central limit theorem
+  - [Confidence Intervals](2-4-interval-estimation/bt-2-4.ipynb)
+
 3.1 Overview of directions and methods of machine learning, major trends in AI. Dimensionality reduction task
   - Introduction to Machine Learning and Data Analysis
   - [Principal Component Analysis (PCA)](3-1-dimensionality-reduction)
