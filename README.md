@@ -42,6 +42,11 @@ ITMO University professional retraining course
   - Function and density distribution. Basic laws of distribution of continuous random variables
   - [Joint distribution of two random variables](2-2-random-distribution/bt-2-2.ipynb)
 
+2.3 Descriptive statistics and point estimates
+  - Descriptive statistics
+  - [Estimation of parameters of a probabilistic model](2-3-descriptive-stats&estimates)
+  - Law of Large Numbers and Properties of Estimators
+
 3.1 Overview of directions and methods of machine learning, major trends in AI. Dimensionality reduction task
   - Introduction to Machine Learning and Data Analysis
   - [Principal Component Analysis (PCA)](3-1-dimensionality-reduction)
