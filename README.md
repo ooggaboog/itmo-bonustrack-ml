@@ -54,6 +54,8 @@ ITMO University professional retraining course
 2.5 Hypothesis Testing
   - [Hypothesis Testing](2-5-hypothesis-testing/bt-2-5.ipynb)
 
+[**Midterm assessment 2**](2-assessment/bt-assessment-2.ipynb)
+
 3.1 Overview of directions and methods of machine learning, major trends in AI. Dimensionality reduction task
   - Introduction to Machine Learning and Data Analysis
   - [Principal Component Analysis (PCA)](3-1-dimensionality-reduction)
