@@ -51,6 +51,9 @@ ITMO University professional retraining course
   - Interval estimation. Central limit theorem
   - [Confidence Intervals](2-4-interval-estimation/bt-2-4.ipynb)
 
+2.5 Hypothesis Testing
+  - [Hypothesis Testing](2-5-hypothesis-testing/bt-2-5.ipynb)
+
 3.1 Overview of directions and methods of machine learning, major trends in AI. Dimensionality reduction task
   - Introduction to Machine Learning and Data Analysis
   - [Principal Component Analysis (PCA)](3-1-dimensionality-reduction)
