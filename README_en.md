@@ -1,3 +1,4 @@
+[русская вер.](README.md)
 # Methods of data analysis
 ITMO University professional retraining course
 
