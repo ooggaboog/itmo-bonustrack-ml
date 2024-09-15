@@ -1,92 +1,92 @@
-# Methods of data analysis
-ITMO University professional retraining course
+# Методы анализа данных
+Курс профессиональной переподготовки Университет ИТМО
 
-### Content:
-[**Colab notebook with all tasks (+extra tasks for preparation**)](https://colab.research.google.com/drive/1Oo8CtfLt8oXXyIIMAQvd4DTBBO25am8m?usp=sharing)
+### Содержание:
+[**Блокнот в Google Colab со всеми заданиями (+дополнительные задания для подготовки**)](https://colab.research.google.com/drive/1Oo8CtfLt8oXXyIIMAQvd4DTBBO25am8m?usp=sharing)
 
-1.1. Introduction to Data Science, tools for data processing
-  - [Introduction to Data Science](1-1-intro&tools/1-1-1-intro/bt-1-1-1.xlsx)
-  - [Tools for data processing](1-1-intro&tools/1-1-2-tools/bt-1-1-2.xlsx)
+1.1. Введение в науку о данных, инструменты для обработки данных
+  - [Введение в науку о данных](1-1-intro&tools/1-1-1-intro/bt-1-1-1.xlsx)
+  - [Инструменты для обработки данных](1-1-intro&tools/1-1-2-tools/bt-1-1-2.xlsx)
 
-1.2. Data visualization. Data analysis and transformation
-  - [Data visualization](1-2-visualization&analysis/1-2-1-visualization)
-  - [Data analysis and transformation](1-2-visualization&analysis/1-2-2-analysis/bt-1-2-2.ipynb)
+1.2. Визуализация данных. Анализ и преобразование данных
+  - [Визуализация данных](1-2-visualization&analysis/1-2-1-visualization)
+  - [Анализ и преобразование данных, библиотеки в Python](1-2-visualization&analysis/1-2-2-analysis/bt-1-2-2.ipynb)
 
-1.3 Time series
-  - [Time series](1-3-time_series/bt-1-3.ipynb)
+1.3 Работа с временными рядами
+  - [Работа с временными рядами](1-3-time_series/bt-1-3.ipynb)
 
-1.4.1 Database management systems. Data modeling. Integrity constraints. Using SQL (DDL) to create data structures
-  - Database management systems
-  - Using SQL (DDL) to create data structures
+1.4.1 Системы управления базами данных. Проектирование данных. Ограничения целостности. Использование языка SQL (DDL) для создания структур данных
+  - Системы управления базами данных
+  - Использование языка SQL (DDL) для создания структур данных
 
-1.4.2 SQL Queries (DML). Database Objects
-  - [SQL Queries (DML)](1-4-sql/1-4-2-1)
-  - [Database Objects](1-4-sql/1-4-2-2)
+1.4.2 Запросы на языке SQL (DML). Объекты базы данных
+  - [Запросы на языке SQL (DML)](1-4-sql/1-4-2-1)
+  - [Объекты базы данных](1-4-sql/1-4-2-2)
 
-1.5 NoSQL data stores
-  - NoSQL databases
-  - Graph data storage (Neo4j)
-  - Key-value stores (Redis)
-  - Documentary storage (MongoDB)
-  - Columnar data stores (Cassandra)
+1.5 NoSQL хранилища данных
+  - NoSQL хранилища
+  - Графовые хранилища данных на примере Neo4j
+  - Хранилища класса ключ-значение на примере системы Redis
+  - Документные хранилища на примере MongoDB
+  - Колоночные хранилища на примере Cassandra
 
-[**Midterm assessment 1**](1-assessment)
+[**Промежуточная аттестация 1**](1-assessment)
 
-2.1 Random Events, Probability, and Random Variables
-  - Introduction to Probability Theory
-  - Probability. Various definitions. Properties of probabilities
-  - [Random variables](2-1-random&probability/bt-2-1.ipynb)
+2.1 Случайные события, вероятность и случайные величины
+  - Введение в теорию вероятностей
+  - Вероятность. Различные определения. Свойства вероятностей
+  - [Случайные величины](2-1-random&probability/bt-2-1.ipynb)
 
-2.2 Probability distribution laws of random variables
-  - Population and sample. Basic laws of distribution of discrete random variables
-  - Function and density distribution. Basic laws of distribution of continuous random variables
-  - [Joint distribution of two random variables](2-2-random-distribution/bt-2-2.ipynb)
+2.2 Законы распределения случайных величин
+  - Генеральная совокупность и выборка. Основные законы распределения дискретных случайных величин
+  - Функция и плотность распределения. Основные законы распределения непрерывных случайных величин
+  - [Совместное распределение двух случайных величин](2-2-random-distribution/bt-2-2.ipynb)
 
-2.3 Descriptive statistics and point estimates
-  - Descriptive statistics
-  - [Estimation of parameters of a probabilistic model](2-3-descriptive-stats&estimates)
-  - Law of Large Numbers and Properties of Estimators
+2.3 Описательная статистика и точечные оценки
+  - Описательная статистика
+  - [Оценивание параметров вероятностной модели](2-3-descriptive-stats&estimates)
+  - Закон больших чисел и свойства оценок
 
-2.4 Interval estimation
-  - Interval estimation. Central limit theorem
-  - [Confidence Intervals](2-4-interval-estimation/bt-2-4.ipynb)
+2.4 Интервальное оценивание
+  - Интервальное оценивание. Центральная предельная теорема
+  - [Доверительные интервалы](2-4-interval-estimation/bt-2-4.ipynb)
 
-2.5 Hypothesis Testing
-  - [Hypothesis Testing](2-5-hypothesis-testing/bt-2-5.ipynb)
+2.5 Проверка гипотез
+  - [Проверка гипотез](2-5-hypothesis-testing/bt-2-5.ipynb)
 
-[**Midterm assessment 2**](2-assessment/bt-assessment-2.ipynb)
+[**Промежуточная аттестация 2**](2-assessment/bt-assessment-2.ipynb)
 
-3.1 Overview of directions and methods of machine learning, major trends in AI. Dimensionality reduction task
-  - Introduction to Machine Learning and Data Analysis
-  - [Principal Component Analysis (PCA)](3-1-dimensionality-reduction)
+3.1 Обзор направлений и методов машинного обучения, основные тренды в ИИ. Задача снижения размерности
+  - Введение в машинное обучение и анализ данных
+  - [Метод главных компонент](3-1-dimensionality-reduction)
 
-3.2 Regression task
-  - Simple linear regression
-  - [Multiple linear regression](3-2-regression)
+3.2 Задача регрессии
+  - Простейшая линейная регрессия
+  - [Множественная линейная регрессия](3-2-regression)
 
-3.3 Classification task: k-NN and naive Bayesian classifier, logistic regression
-  - [Method of k-nearest neighbors](3-3-classification/k-nn)
-  - Algorithms, their evaluation and data set separation
-  - [Naive Bayes classifier](3-3-classification/naive-bayes/bt-3-3-2.xlsx)
-  - [Logistic Regression](3-3-classification/logistic-regression/bt-3-3-3.ipynb)
+3.3 Задача классификации: k-NN и наивный байесовский классификатор, логистическая регрессия
+  - [Метод k-ближайших соседей](3-3-classification/k-nn)
+  - Алгоритмы, их оценка и разделение набора данных
+  - [Наивный байесовский классификатор](3-3-classification/naive-bayes/bt-3-3-2.xlsx)
+  - [Логистическая регрессия](3-3-classification/logistic-regression/bt-3-3-3.ipynb)
 
-[**Midterm assessment 3**](3-assessment/bt-assessment-3.ipynb)
+[**Промежуточная аттестация 3**](3-assessment/bt-assessment-3.ipynb)
 
-4.1 Classification task: SVM, DT
-  - SVM for linearly separable samples
-  - [SVM for linearly inseparable samples](4-1-svm&decision-tree/4-1-1-svm/bt-4-1-1.ipynb)
-  - Entropy
-  - [Decision Trees](4-1-svm&decision-tree/4-1-2-decision-tree/bt-4-1-2.ipynb)
+4.1 Задача классификации: SVM, ДПР
+  - SVM для линейно разделимой выборки
+  - [SVM для линейно неразделимой выборки](4-1-svm&decision-tree/4-1-1-svm/bt-4-1-1.ipynb)
+  - Энтропия
+  - [Деревья принятия решений](4-1-svm&decision-tree/4-1-2-decision-tree/bt-4-1-2.ipynb)
 
-4.2 Clustering task: K-means, DBSCAN, hierarchical clustering
-  - [K-means method](4-2-clustering)
-  - Hierarchical clustering and DBSCAN
+4.2 Задача кластеризации: K-means, DBSCAN, иерархическая кластеризация
+  - [Метод К-средних](4-2-clustering)
+  - Агломеративная кластеризация и DBSCAN
 
-4.3 Ensembles, reinforcement learning
-  - Resampling
-  - [Model ensembles](4-3-ensemble&reinforcement-learning/4-3-1-ensemble/bt-4-3-1.ipynb)
-  - [Reinforcement Learning Concept](4-3-ensemble&reinforcement-learning/4-3-2-reinforcement-learning)
+4.3 Ансамбли, обучение с подкреплением
+  - Ресемплинг
+  - [Ансамбли моделей](4-3-ensemble&reinforcement-learning/4-3-1-ensemble/bt-4-3-1.ipynb)
+  - [Понятие обучения с подкреплением](4-3-ensemble&reinforcement-learning/4-3-2-reinforcement-learning)
 
-[**Midterm assessment 4**](4-assessment)
+[**Промежуточная аттестация 4**](4-assessment)
 
-### [Final project](https://github.com/ooggaboog/weather-classification-ml)
+### [Итоговый проект](https://github.com/ooggaboog/weather-classification-ml)
